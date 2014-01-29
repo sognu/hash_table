@@ -1,0 +1,13 @@
+************************************************************************************************
+Hash table implementation that compares quadratic probing and chainging to resolve collisions
+************************************************************************************************
+
+README		- This file
+
+#  source files
+QuadProbeHashTable, ChainingHashTable,
+GoodHashFunction {.java}                       - Primary source code
+HashTableAnalysis, TestChainingHashTable,
+TestQuadProbeHashTable   {.java}	       - Testing code
+BashHashFunction, MediocreHashFunction {.java} - For testing purposes
+Set   {.java}                                  - Utility code
