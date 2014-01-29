@@ -1,6 +1,7 @@
-************************************************************************************************
-Hash table implementation that compares quadratic probing and chainging to resolve collisions
-************************************************************************************************
+**********************************************************
+Hash table implementation that compares quadratic probing
+and chainging to resolve collisions
+**********************************************************
 
 README		- This file
 
